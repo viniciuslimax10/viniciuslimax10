@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Ei 👋, Sou Vinicius Lima
-Linkedin Badge Instagram Badge Whatsapp Badge Gmail Badge
+<a href="https://www.linkedin.com/in/vinicius-lima-a0585492">https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit</a> Badge Instagram Badge Whatsapp Badge Gmail Badge
 
 Aqui tenho arquivado diariamente meus estudos e projetos.
  SOBRE MIM (Clique aqui para expandir)
