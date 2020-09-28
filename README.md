@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/vinicius-lima-a0585492"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/viniciuslimax10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://wa.me/5511947317661"><img src="	https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-<a href="mailto:viniciuslimax10@gmail.com><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:viniciuslimax10@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 ### Welcome to my profile 
 
 
