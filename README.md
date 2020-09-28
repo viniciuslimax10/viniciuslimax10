@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm Vinicius Lima
+<a href="https://www.linkedin.com/in/vinicius-lima-a0585492"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit"</a>
+<a href="https://www.instagram.com/viniciuslimax10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=whiteBadge"</a> 
+ Instagram Badge Whatsapp Badge Gmail Badge
 ### Welcome to my profile 
-<a href="https://www.linkedin.com/in/vinicius-lima-a0585492"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whit"></a> Badge Instagram Badge Whatsapp Badge Gmail Badge
+
 
 Aqui tenho arquivado diariamente meus estudos e projetos.
  SOBRE MIM (Clique aqui para expandir)
