@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 <a href="mailto:viniciuslimax10@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 ### Welcome to my profile 
 
-
-Aqui tenho arquivado diariamente meus estudos e projetos.
- ABOUT ME (Clique aqui para expandir)
 📖 About Me
 
 I love to learn new things..
