@@ -23,12 +23,23 @@ Here are some ideas to get you started:
 
 
 Aqui tenho arquivado diariamente meus estudos e projetos.
- SOBRE MIM (Clique aqui para expandir)
-📖 Sobre mim
-Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho aderido conhecimentos também atraves de diversos cursos, buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado.
+ ABOUT ME (Clique aqui para expandir)
+📖 About Me
 
-Desenvolvendo 💻
-PHP MySQL Git CSS3 HTML5 Flutter Dart
+I love to learn new things..
 
-Estudando 📖
-Javascript Flutter Dart Node
+Developing 💻
+https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white 
+https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white 
+https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white
+
+
+
+Studying 📖
+https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black
+https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white
+https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white
+https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white
