@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Ei 👋, Sou Vinicius Lima
+Linkedin Badge Instagram Badge Whatsapp Badge Gmail Badge
+
+Aqui tenho arquivado diariamente meus estudos e projetos.
+ SOBRE MIM (Clique aqui para expandir)
+📖 Sobre mim
+Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho aderido conhecimentos também atraves de diversos cursos, buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado.
+
+Desenvolvendo 💻
+PHP MySQL Git CSS3 HTML5 Flutter Dart
+
+Estudando 📖
+Javascript Flutter Dart Node
